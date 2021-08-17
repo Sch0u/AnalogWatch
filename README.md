@@ -8,7 +8,7 @@ I made this as a HF 1 project in school, so here it is!
 
 ### Dependencies
 
-Downloadw the folder
+Download the folder
 
 ### Installing
 
